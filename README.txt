@@ -17,3 +17,13 @@
 
 ## How to use
 Open `index.html` in a browser to preview the website. Upload all three website files to your hosting public folder to publish it.
+
+
+SLIDER UPDATE
+The existing website content has been retained. This update adds an automatic Home-page image slider.
+Images included in /images/:
+- slide-1-printing.png
+- slide-2-cv-stamp-urdu.png
+- slide-3-services.png
+Slider features: 3.5-second auto slide, smooth transition, left/right arrows, bottom dots, hover pause, touch swipe and mobile responsive layout.
+For GitHub Pages, upload/replace index.html, style.css and script.js in the repository root and upload the complete images folder.
