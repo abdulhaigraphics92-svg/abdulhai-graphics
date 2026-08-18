@@ -27,3 +27,9 @@ Images included in /images/:
 - slide-3-services.png
 Slider features: 3.5-second auto slide, smooth transition, left/right arrows, bottom dots, hover pause, touch swipe and mobile responsive layout.
 For GitHub Pages, upload/replace index.html, style.css and script.js in the repository root and upload the complete images folder.
+
+
+NEW BACKGROUND:
+- Added the user's uploaded background image as images/website-background.jpg
+- The background covers the full website with a subtle dark overlay for readability.
+- Existing content and slider remain intact.
